@@ -1,4 +1,4 @@
-Variable - Named "chunk" of memory
+## Variable - Named "chunk" of memory
 
     int - A whole number variable, cannot be anything except a whole number
         eg: int myInt = -5;
