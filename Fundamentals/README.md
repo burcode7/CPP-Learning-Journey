@@ -5,7 +5,7 @@
 - **Declaring and initializing variables**
 
 - **Data types**
-    - int, doublem char, string, bool
+    - int, double, char, string, bool
 
 - **Comments**
 
