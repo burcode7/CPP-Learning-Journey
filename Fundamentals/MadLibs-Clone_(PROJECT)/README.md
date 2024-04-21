@@ -15,4 +15,4 @@
 
 1. Display in the story:
 
-    `There once was a ADJECTIVE1 girl named GIRLSNAME who was a ADJECTIVE2 OCCUPATION1 in the Kingdom of PLACENAME. She loved to wear CLOTHING and HOBBY. She wanted to marry the ADJECTIVE3 OCCUPATION2 named BOYSNAME bt her father, King MANSNAME forbid her from seeing him.`
+    There once was a 'ADJECTIVE1' girl named 'GIRLSNAME' who was a 'ADJECTIVE2' 'OCCUPATION1' in the Kingdom of 'PLACENAME'. She loved to wear 'CLOTHING' and 'HOBBY'. She wanted to marry the 'ADJECTIVE3' 'OCCUPATION2' named 'BOYSNAME' but her father, King 'MANSNAME' forbid her from seeing him.
