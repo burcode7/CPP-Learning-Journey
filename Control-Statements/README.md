@@ -22,3 +22,8 @@
         cout << "math";
     }
     ```
+- Repetition control statements:
+    - while loops
+    - do-while loops
+    - for loops
+    
