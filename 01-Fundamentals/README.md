@@ -17,3 +17,5 @@
 - **Symbolic and literal constants**
 
 - **User input**
+
+- All lessons are listen in order learned
