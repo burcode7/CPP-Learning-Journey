@@ -7,4 +7,5 @@
     - if true: ```You qualify for the discount!```
     - else: ```You do not qualify for the discount```
 
-
+#
+Both solutions that I have are correct, they are just executed differently.
